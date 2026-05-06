@@ -184,7 +184,7 @@ Building scalable applications that make a difference and open to new opportunit
 </div>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Jalal-Eddine?base=languages&languages=1&languages.limit=8&languages.threshold=0%25&config.timezone=UTC" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalal-Eddine&theme=tokyonight&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" />
 </div>
 
 <div align="center">
