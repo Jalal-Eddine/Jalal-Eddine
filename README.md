@@ -36,12 +36,12 @@
 - **Problem-solving with creativity** - Finding innovative solutions to complex challenges
 - **Build it right, build it once** - My motto for quality development
 
-#### 🎮 **Fun Facts About Me**
+<!-- #### 🎮 **Fun Facts About Me**
 - ☕ I run on coffee and code
 - 🧩 Can solve Rubik's cube in under 2 minutes
 - 🎮 Love gaming and game development
 - 📚 Read tech blogs during breakfast
-- 🌱 Passionate about sustainable tech
+- 🌱 Passionate about sustainable tech -->
 
 #### 🚀 **Current Mission**
 Building scalable applications that make a difference and open to new opportunities and collaborations!
