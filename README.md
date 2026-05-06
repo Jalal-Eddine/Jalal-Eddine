@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="github_header_banner.png" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=JALAL-EDDINE&subText=Full-Stack%20Engineer&fontSize=70&subFontSize=25" width="100%"/>
 </div>
 
 ---
