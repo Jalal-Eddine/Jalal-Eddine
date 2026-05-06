@@ -13,18 +13,22 @@
 **Jalal Eddine** - A passionate full-stack developer dedicated to creating digital experiences that matter. Based anywhere in the world, I'm always ready to collaborate on exciting projects both remotely and on-site.
 
 #### 🎯 **My Expertise**
-- **Languages**: JavaScript, TypeScript, Python, Java, C++
-- **Frameworks**: React, Vue, Angular, Next.js, Express, Django
-- **Databases**: MongoDB, PostgreSQL, MySQL, Redis
-- **Cloud**: AWS, Azure, Google Cloud, Docker, Kubernetes
+- **Back-End (Core)**: Node, Express js, PHP, Symfony, Twig, API Platform, Django, Prisma, Drizzle
+- **Front-End**: React.js, Next.js, TypeScript, JavaScript, React Router, Redux Toolkit, Zustand, React Query, Tailwind CSS, Shadcn, SCSS, Bootstrap, CSS-in-JS
+- **Databases & Cloud**: MySQL, PostgreSQL, Supabase, Firebase, Sanity, Convex
+- **CMS & LMS**: WordPress, Shopify, Moodle
+- **DevOps & Deployment**: Docker, GitHub Actions, Vercel, Netlify, Heroku, OVH, Hostinger, Namecheap
+- **Design Tools**: Figma, Adobe XD, Photoshop, Canva
+- **AI-Powered Development**: Claude Code, Antigravity, Cursor, GitHub Copilot
+- **Testing & Debugging**: PHPUnit, PHPStan, Jest, React Testing Library, Sentry
 
 #### 🌟 **My Interests**
 - 🎯 **Full-Stack Development** - Building complete solutions from front to back
 - 📱 **Mobile App Development** - Creating engaging mobile experiences
-- ☁️ **Cloud Architecture** - Designing scalable cloud solutions
+- 🎨 **Web & Mobile Design** - Crafting beautiful and intuitive user interfaces
 - 🤖 **AI/ML Integration** - Incorporating AI into web applications
-- 🔒 **Cybersecurity** - Building secure and robust applications
-- 📊 **Data Visualization** - Making data meaningful and accessible
+- ⚙️ **Workflow Automation** - Streamlining processes with tools like n8n
+
 
 #### 💼 **My Work Style**
 - **Collaborative & Detail-oriented** - I thrive in team environments
@@ -131,6 +135,7 @@ Building scalable applications that make a difference and open to new opportunit
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
@@ -150,11 +155,15 @@ Building scalable applications that make a difference and open to new opportunit
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-0050D7?style=for-the-badge&logo=ovh&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 #### Testing & Quality
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-8A2BE2?style=for-the-badge&logo=phpunit&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-222222?style=for-the-badge&logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![RTL](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 ### 🔹 CMS & Design
@@ -168,6 +177,13 @@ Building scalable applications that make a difference and open to new opportunit
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+#### Automation & AI Tools
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292E?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
@@ -192,14 +208,12 @@ Building scalable applications that make a difference and open to new opportunit
 
 ## 🎯 Current Focus
 
-- 🔭 **Currently Working On**: Building scalable web applications with modern tech stack
+- 🔭 **Currently Working On**: Developing **LifeRPG**, a gamified productivity system that transforms daily tasks and goals into a rewarding RPG experience. It turns personal growth into an engaging journey by allowing users to level up their "Hero" through real-world achievements.
 - 🌱 **Currently Learning**: Advanced cloud architecture and DevOps practices
 - 👯 **Looking to Collaborate**: Open source projects and innovative web applications
 - 🤔 **Looking for Help With**: Machine Learning integration in web applications
 - 💬 **Ask Me About**: Full-stack development, web technologies, and career advice
-- 📫 **How to Reach Me**: [Your Email] | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
-- ⚡ **Fun Fact**: I can solve a Rubik's cube in under 2 minutes! 🧩
-
+- 📫 **How to Reach Me**: [Your Email] | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://jalaleddine.com)
 ---
 
 ## 🚀 Let's Connect!
