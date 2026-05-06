@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+Jalal+Eddine;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=JALAL-EDDINE&subText=Full-Stack%20Engineer&fontSize=70&subFontSize=25" width="100%"/>
-</div>
-
----
-
 ## 🚀 About Me
 
 <br>
